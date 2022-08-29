@@ -1,0 +1,57 @@
+h1 {
+    text-align: center;
+    padding: 2px 10px;
+    margin: 50px auto 20px auto;
+    width: 640px;
+    background-color: rgb(212, 146, 122);
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+img {
+    display: block;
+    margin: 0 auto 20px auto;
+    width: 640px;
+    height: auto;
+}
+
+ul.recipes {
+    text-align: center;
+}
+
+ul li.recipes {
+    display: inline-block;
+    padding: 2px 10px;
+    margin: 0 10px;
+    background-color: rgb(212, 146, 122);
+    border: 1px solid black;
+    border-radius: 5px;
+}
+ul a {
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.content h2,
+.content p {
+    text-align: center;
+}
+
+.content h2,
+.content h3 {
+    background-color: rgb(212, 146, 122);
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 2px 10px;
+}
+
+.content ul,
+.content ol,
+.content h3,
+.content h2,
+.content p {
+    display: block;
+    margin: 10px auto;
+    width: 60%;
+}
+
